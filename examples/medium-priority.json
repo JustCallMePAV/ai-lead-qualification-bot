@@ -1,0 +1,10 @@
+{
+  "external_id": "lead-demo-medium",
+  "name": "Daniel Reed",
+  "email": "daniel@example.com",
+  "company": "Reed Services",
+  "job_title": "Operations Manager",
+  "message": "We are exploring automation for customer enquiries and would like to understand the options and likely implementation approach.",
+  "source": "referral",
+  "metadata": {"country": "Ireland"}
+}

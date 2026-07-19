@@ -1,0 +1,12 @@
+{
+  "external_id": "lead-demo-high",
+  "name": "Sarah Johnson",
+  "email": "sarah@example.com",
+  "company": "Example Fitness Ltd",
+  "job_title": "Marketing Director",
+  "message": "We need an AI assistant to qualify approximately 500 inbound leads per month and update our CRM with a measurable handoff workflow.",
+  "source": "website",
+  "budget": "GBP 2,000-5,000",
+  "timeline": "Within 30 days",
+  "metadata": {"country": "United Kingdom"}
+}

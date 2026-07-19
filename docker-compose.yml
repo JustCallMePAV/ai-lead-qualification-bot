@@ -1,0 +1,13 @@
+services:
+  api:
+    build: .
+    ports: ["8000:8000"]
+    env_file:
+      - path: .env
+        required: false
+    environment:
+      DEMO_MODE: ${DEMO_MODE:-true}
+      DATABASE_URL: sqlite:////data/lead_qualification.db
+    volumes: ["lead_data:/data"]
+volumes:
+  lead_data:
